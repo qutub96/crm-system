@@ -169,15 +169,16 @@ CRMSystem.API/
 ---
 ## Dashboard :
 
-<img width="1362" height="763" alt="dashboard" src="https://github.com/user-attachments/assets/1b4792cb-b197-41ff-9c96-853ab62516d6" />
+<img width="1362" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/d01c1657-46c1-4a7c-8219-ee3a5fa9f89c" />
 
 
 ## Customers :
-<img width="1355" height="768" alt="cust" src="https://github.com/user-attachments/assets/6df0a653-7b68-464a-a08f-93715aa26d5a" />
+
+<img width="1355" height="647" alt="cust" src="https://github.com/user-attachments/assets/23552902-1940-4cf1-af26-eca07383fab5" />
 
 
 ## Add Customers :
-<img width="1361" height="767" alt="afteraddingcust" src="https://github.com/user-attachments/assets/c16384ad-bdba-4a94-a50d-eaa7dc6ed7c5" />
+<img width="1361" height="643" alt="afteraddingcust" src="https://github.com/user-attachments/assets/25b8d398-9000-4230-aa24-d9d75dcae5cb" />
 
 ---
 ## Security notes
