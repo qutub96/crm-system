@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\controllers\\opportunitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:controllers\\opportunitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\controllers\\interactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:controllers\\interactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\migrations\\20260708101315_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:migrations\\20260708101315_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanze\\AppData\\Roaming\\Microsoft\\UserSecrets\\e424e2a0-95be-47ea-8f0f-3fc37a293c43\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\data\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:data\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\interactionstandalonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\interactionstandalonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\mappers\\opportunitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:mappers\\opportunitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\mappers\\interactionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:mappers\\interactionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\interactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\interactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\opportunitycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\opportunitycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\opportunitystandalonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\opportunitystandalonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\opportunityresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\opportunityresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\interactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\interactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\customerwithhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\customerwithhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|c:\\users\\hanze\\source\\repos\\crm-system\\crmsystem.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FC6195-5064-4303-B3BB-2EDF2FDD5DA9}|CRMSystem.API.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAABAMjMzMzMhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-13T05:40:20.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T09:44:18.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAF0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:23:47.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAF0AAABAMzMzMzMpwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T11:15:24.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InteractionController.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\InteractionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InteractionController.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\InteractionController.cs",
+              "RelativeToolTip": "Controllers\\InteractionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:28:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpportunityController.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\OpportunityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OpportunityController.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\OpportunityController.cs",
+              "RelativeToolTip": "Controllers\\OpportunityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:30:41.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:53:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:53:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:54:05.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:55:18.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260708101315_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Migrations\\20260708101315_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260708101315_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Migrations\\20260708101315_AddIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20260708101315_AddIdentityTables.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAwNQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:13:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\hanze\\AppData\\Roaming\\Microsoft\\UserSecrets\\e424e2a0-95be-47ea-8f0f-3fc37a293c43\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e424e2a0-95be-47ea-8f0f-3fc37a293c43\\secrets.json",
+              "ToolTip": "C:\\Users\\hanze\\AppData\\Roaming\\Microsoft\\UserSecrets\\e424e2a0-95be-47ea-8f0f-3fc37a293c43\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e424e2a0-95be-47ea-8f0f-3fc37a293c43\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T07:38:00.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrmDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Data\\CrmDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CrmDbContext.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Data\\CrmDbContext.cs",
+              "RelativeToolTip": "Data\\CrmDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:21:51.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:20:37.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InteractionStandaloneDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\InteractionStandaloneDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\InteractionStandaloneDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\InteractionStandaloneDto.cs",
+              "RelativeToolTip": "DTOs\\InteractionStandaloneDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:46:58.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OpportunityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Mappers\\OpportunityMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\OpportunityMapper.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Mappers\\OpportunityMapper.cs",
+              "RelativeToolTip": "Mappers\\OpportunityMapper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:30:16.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InteractionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Mappers\\InteractionMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\InteractionMapper.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Mappers\\InteractionMapper.cs",
+              "RelativeToolTip": "Mappers\\InteractionMapper.cs",
+              "ViewState": "AgIAAA8AAAAAbpmZmZnpvx4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:26:13.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Mappers\\CustomerMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\CustomerMapper.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Mappers\\CustomerMapper.cs",
+              "RelativeToolTip": "Mappers\\CustomerMapper.cs",
+              "ViewState": "AgIAAA8AAABgmZmZmZknwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:54:03.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OpportunityCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\OpportunityCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OpportunityCreateDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\OpportunityCreateDto.cs",
+              "RelativeToolTip": "DTOs\\OpportunityCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:48:11.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InteractionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\InteractionCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\InteractionCreateDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\InteractionCreateDto.cs",
+              "RelativeToolTip": "DTOs\\InteractionCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:47:51.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OpportunityStandaloneDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\OpportunityStandaloneDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OpportunityStandaloneDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\OpportunityStandaloneDto.cs",
+              "RelativeToolTip": "DTOs\\OpportunityStandaloneDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:47:23.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OpportunityResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\OpportunityResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OpportunityResponseDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\OpportunityResponseDto.cs",
+              "RelativeToolTip": "DTOs\\OpportunityResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:46:12.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InteractionResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\InteractionResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\InteractionResponseDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\InteractionResponseDto.cs",
+              "RelativeToolTip": "DTOs\\InteractionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:45:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerWithHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\CustomerWithHistoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerWithHistoryDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\CustomerWithHistoryDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerWithHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBTwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:42:51.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\CustomerResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerResponseDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\CustomerResponseDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:41:58.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerCreateDto.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\DTOs\\CustomerCreateDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:33:00.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\hanze\\source\\repos\\crm-system\\CRMsystem.API\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:29:38.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
