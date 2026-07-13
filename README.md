@@ -189,15 +189,6 @@ CRMSystem.API/
 - DTOs prevent circular reference issues and avoid leaking internal EF Core model details to API consumers
 - The connection string and JWT key in `appsettings.json` are local development placeholders — in a production deployment these would be moved to environment variables, User Secrets, or a secrets manager
 
----
-
-## Possible next steps
-
-- Refresh tokens (current JWT expires after 60 minutes with no renewal)
-- Global exception handling middleware for consistent error responses
-- Pagination on list endpoints
-- Automatic Admin user seeding on first run
-- Unit tests for repositories and controllers
 
 ---
 
